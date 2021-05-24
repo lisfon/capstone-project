@@ -1,4 +1,4 @@
-#### Capstone Project - Starbucks ####
+# Capstone Project - Starbucks #
 
 ### Table of Contents
 
