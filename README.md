@@ -14,7 +14,7 @@ The code should run with no issues using Python versions 3.* All extra libraries
 
 ## Project Motivation<a name="motivation"></a>
 
-The goal of this project, which is the capstone project of the Data Scientist Nanodegree Program, is to identify patterns of behaviour of customers purchasing through the Starbucks app. By analysing the response of each demographic group to the various offers it is possible to optimize the offers pushed to each customers and consequently to positively influence their purchasing behaviour.
+The goal of this project, which is the capstone project of the Udacity Data Scientist Nanodegree Program, is to identify patterns of behaviour of customers purchasing through the Starbucks app. By analysing the response of each demographic group to the various offers it is possible to optimize the offers pushed to each customers and consequently to positively influence their purchasing behaviour.
 
 ## File Description<a name="files"></a>
 
