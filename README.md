@@ -22,7 +22,7 @@ This repository contains a Jupiter Norebook with the detailed analysis performed
 
 ## Results<a name="results"></a>
 
-The main finding from my analysis can be found <a href="here">lhttps://lisa-fontana.medium.com/starbucks-capstone-project-a43eff978d31</a>.
+The main finding from my analysis can be found <a href="https://lisa-fontana.medium.com/starbucks-capstone-project-a43eff978d31">here</a>.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
