@@ -18,16 +18,7 @@ The goal of this project, which is the capstone project of the Udacity Data Scie
 
 ## File Description<a name="files"></a>
 
-Overall structure of the repository:
-
-data<br>
-| - portfolio.json<br>
-| - profile.json<br>
-| - transcript.json<br>
-Starbucks_Capstone_notebook.ipynb<br>
-README.md<br>
-
-The Jupiter Notebook Starbucks_Capstone_notebook.ipynb contains the step-by-step analysis performed on the datasets provided.
+This repository contains a Jupiter Norebook with the detailed analysis performed on the datasets provided.
 
 ## Results<a name="results"></a>
 
